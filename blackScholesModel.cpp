@@ -4,8 +4,7 @@
 
 using namespace std;
 
-int d1(){
-}
+
 
 int main(){
     double C;  // Call option price
@@ -16,5 +15,6 @@ int main(){
     double t;   // Time to maturity or expiration
     double o;   // Volatility of the asset
 
+    double d1 = (log(St/K) + (r + (pow(o, 2) / 2))*t) / (o*sqrt(t));
     cout<<"Hello World"<<endl;
 }
