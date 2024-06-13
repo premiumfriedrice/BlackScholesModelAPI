@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/lloydalba/Documents/Code/repos/Finance/BlackScholesModelCPP/build",
+  "command": "/usr/bin/clang++  -I/Users/lloydalba/Documents/Code/repos/Finance/BlackScholesModelCPP/boost_1_85_0 -I/Users/lloydalba/Documents/Code/repos/Finance/BlackScholesModelCPP/dependencies/cpp_redis/includes -I/Users/lloydalba/Documents/Code/repos/Finance/BlackScholesModelCPP/dependencies/Crow/include -I/Users/lloydalba/Documents/Code/repos/Finance/BlackScholesModelCPP/cpp_redis -I/opt/homebrew/Cellar/asio/1.30.2/include -I/Users/lloydalba/Documents/Code/repos/Finance/BlackScholesModelCPP/usr/local/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/BlackScholesModelCPP.dir/main.cpp.o -c /Users/lloydalba/Documents/Code/repos/Finance/BlackScholesModelCPP/main.cpp",
+  "file": "/Users/lloydalba/Documents/Code/repos/Finance/BlackScholesModelCPP/main.cpp",
+  "output": "CMakeFiles/BlackScholesModelCPP.dir/main.cpp.o"
+}
+]
