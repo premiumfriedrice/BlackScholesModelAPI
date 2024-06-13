@@ -1,6 +1,6 @@
 # Black Scholes Model API in C++
 
-Called the "Billion Dollar Equation" by veritasium and many others. My first try creating a finance model API in C++.
+Called the "Billion Dollar Equation" by veritasium and many others. My first try creating a financial model API in C++.
 
 ### References for Recreating the Model: <br />
 <link>https://www.investopedia.com/terms/b/blackscholes.asp</link>
